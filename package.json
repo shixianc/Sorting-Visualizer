@@ -7,13 +7,10 @@
     "react": "^16.11.0",
     "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0",
-    "homepage": "https://shixianc.github.io/Sorting-Visualizer/"
+    "react-scripts": "3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn run build",
-   "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
