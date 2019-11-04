@@ -5,4 +5,4 @@
 ### It features 4 popular sorting algorithms: MergeSort, quickSort, HeapSort and BubbleSort.
 ### (Recommend viewing with Google Chrome/ Safari)
 
-#### The idea comes from the Youtuber Clément Mihailescu, and I really like all kinds of sorting algorithms, and most importantly I want to have a visual about programming concepts, so I created this project! Hope you Enjoy!
+#### I really like all kinds of sorting algorithms, and most importantly I want to have a visual about programming concepts, so I created this project! Hope you Enjoy!
