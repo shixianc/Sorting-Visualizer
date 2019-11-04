@@ -12,5 +12,3 @@ function App() {
     return div;
 }
 export default App;
-
-//TODO:把buttons放到单独的files，保证在bars的下面
